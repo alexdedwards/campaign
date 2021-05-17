@@ -1,8 +1,10 @@
 ---
 layout:home
 title: "Midterrene"
-permalink: /midterrene/
+sidebar:
+  - title: "Title"
+    text: "Some text here."
 ---
 
-## Midterrene
+## Midterrene2
 
